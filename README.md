@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/praveen kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_official_praveen2168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_official_praveen2168" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/praveen_kumar12-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen_kumar12-" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Praveen-Kumar098/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen_kumar12-" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/(<praveenmdlnl>/praveen kumar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<praveenmdlnl>/praveen kumar)" height="30" width="40" /></a>
 </p>
 
